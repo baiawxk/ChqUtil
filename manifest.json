@@ -1,6 +1,6 @@
 {
-  "name": "ChqUtil",
-  "short_name": "ChqUtil",
+  "name": "vuetify-pwa-template",
+  "short_name": "vuetify-pwa-template",
   "icons": [{
       "src": "/img/icons/android-chrome-192x192.png",
       "sizes": "192x192",
